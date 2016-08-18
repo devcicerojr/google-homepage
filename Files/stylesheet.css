@@ -1,0 +1,112 @@
+#divnavbar
+{
+   position: relative;
+   height: 40px;
+   font-family: Arial;
+   font-size: 1em;
+}
+
+#divfright
+{
+   position: relative;
+   height: 30px;
+   width: 200px;
+   margin-top: 0px;
+   float: right;
+}
+
+#icon1
+{ 
+   position: relative;
+   height: 30px;
+   width: 25px;
+   background-position: -132px -38px;
+   opacity: .55;
+   background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+   display: inline-block;
+}
+
+#icon1:hover
+{
+   opacity: .85;
+}
+
+#divlogo
+{
+   margin-top: 80px;
+}
+
+#divlinks
+{
+   position: relative;
+   margin-top: 0px;
+   margin-bottom: 20px;
+   padding-top: 8px;
+   width: 90px;
+   float: left;
+   display: inline-block;
+}
+
+#imglogo
+{
+   position: relative;
+   margin: auto;
+   display: block;
+}
+
+#imgmic
+{
+   position: relative;
+   width: 36px;
+   height: 36px;
+   left: -37px;
+   top: 15px;
+   display: inline-block;
+}
+
+#divsearch
+{
+   position: relative;
+   width: 600px;
+   top: 50px;
+   left: 40px;
+   margin: auto;
+}
+
+#divsubmit
+{
+   position: relative;
+   width: 280px;
+   top: 30px;
+   right: 60px;
+   margin: auto;
+}
+
+#submitGS
+{
+   margin-left: 20px;
+   margin-right: 20px;
+   display: inline-block;
+}
+
+#submitIFL, #submitGS
+{
+   border: 1px solid #F2F2F2;
+   background-color: #F2F2F2;
+   color: #757575;
+   border-radius: 2px;
+   height: 30px;
+   font-weight: bold;
+   font-size: 13;
+   font-family: arial, sans-serif;
+}
+
+#inputsearch
+{
+   position: relative;
+   width: 480px;
+   height: 34px;
+   border: 1px solid #DDDDDD;
+   padding-right: 36px;
+   display: inline-block;
+}
